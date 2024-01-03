@@ -1,2 +1,2 @@
-# collaboration
+# Collaboration
 Collaboration
