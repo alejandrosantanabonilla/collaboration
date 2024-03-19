@@ -91,7 +91,7 @@ def fit_fourier_series(data_file, n_order, minimizer, plot=True, output_file=Non
 
 
 # Example Usage
-data_file = "new_kj_mol.dat"
+data_file = "d_10_5_1_2.dat"
 n_order = 6
 minimizers = [BFGS, BasinHopping, BFGS]  # List of minimizers to try
 output_file = "fit_results.json"  # Optional JSON output file (uncomment to use)
